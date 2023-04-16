@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, 3D modeling, web and game dev
 - 🌱 I’m currently learning GoDot game engine
 - 💞️ I’m looking to collaborate on IT and robotics projects and competitions
-- 📫 How to reach me Email-Kanishk14v@gmail.com
+- 📫 How to reach me Kanishk14v@gmail.com
 - 
 
 <!---
